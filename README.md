@@ -35,7 +35,7 @@ IDE : eclipse
 
 
 
-### 프로젝트 시연 영상
+### 프로젝트 시현 영상
 
 <div>
 	<a href="https://www.youtube.com/watch?v=4aJZRGXHV_A" target="_blank"><image src = "https://img.youtube.com/vi/4aJZRGXHV_A/mqdefault.jpg"></a>	
