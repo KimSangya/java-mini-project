@@ -42,7 +42,7 @@ IDE : eclipse
 
 
 
-## [javadoc 참조하기](https://2miri.github.io/java-mini-project//doc/index.html)
+## [javadoc 참조하려면 누르세요](https://2miri.github.io/java-mini-project//doc/index.html)
 
 
 
